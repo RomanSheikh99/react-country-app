@@ -3,7 +3,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div className="header">
+        <div className="header bg">
             <h2>see all countries all over the world</h2>
         </div>
     );
